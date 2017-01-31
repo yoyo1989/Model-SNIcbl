@@ -2,5 +2,10 @@
 In this directory (if not now, soon):
 
 Fiducial Model with 0.285 Ms Nickel
+  file tag: "fiducial"
+  bolLC = bolometric luminosity (I can also do V-band, if that would be better for matching phase)
+  spec = spectrum (columns are time, angstroms, mu, and specific luminosity)
+  we give the polar and equatorial viewing angle
 
 Fiducial Model with adjusted Nickel mass to 0.47 Ms Nickel
+  This has been submitted to run.
