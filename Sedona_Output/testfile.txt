@@ -1,1 +1,6 @@
-Try this again...
+
+In this directory (if not now, soon):
+
+Fiducial Model with 0.285 Ms Nickel
+
+Fiducial Model with adjusted Nickel mass to 0.47 Ms Nickel
