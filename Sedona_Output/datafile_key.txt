@@ -1,5 +1,5 @@
 
-In this directory (if not now, soon):
+In this directory (so far):
 
 Fiducial Model with 0.285 Ms Nickel
   file tag: "fiducial"
@@ -8,4 +8,5 @@ Fiducial Model with 0.285 Ms Nickel
   we give the polar and equatorial viewing angle
 
 Fiducial Model with adjusted Nickel mass to 0.47 Ms Nickel
-  This has been submitted to run.
+  file tag: "fiducial_ni"
+  To my eye, these spectra look bluer and spikier than I would hope for from a fiducial model. I'd be curious to know how they look to the observers.
