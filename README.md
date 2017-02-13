@@ -1,6 +1,6 @@
 # Model-SNIcbl
 
-Spectra data of the following SNe Ic-bl are added:
+Spectra of the following SNe Ic-bl are added:
 - 97ef: no GRB 
 - 98bw: with GRB 980425
 - 06aj: with GRB 060218
