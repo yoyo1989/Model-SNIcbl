@@ -10,3 +10,6 @@ Fiducial Model with 0.285 Ms Nickel
 Fiducial Model with adjusted Nickel mass to 0.47 Ms Nickel
   file tag: "fiducial_ni"
   To my eye, these spectra look bluer and spikier than I would hope for from a fiducial model. I'd be curious to know how they look to the observers.
+
+Adding on June 9: cav4 models
+This model has ~2.0 solar masses of ejecta and .27 solar masses of Nickel.
